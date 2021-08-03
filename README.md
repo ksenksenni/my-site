@@ -1,1 +1,1 @@
-# my-site
+# study project
